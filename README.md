@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)
+![Django](https://img.shields.io/badge/Django-5.2-green?logo=django)
 ![DRF](https://img.shields.io/badge/DRF-3.14-red?logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7.0-red?logo=redis)
@@ -92,7 +92,7 @@ This is the **backend API server** for the Helpdesk Support System, a comprehens
 | Technology | Version | Purpose |
 |------------|---------|---------|
 | Python | 3.11+ | Core language |
-| Django | 4.2+ | Web framework |
+| Django | 5.2+ | Web framework |
 | Django REST Framework | 3.14+ | API development |
 | Django Channels | 4.0+ | WebSocket support |
 
